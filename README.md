@@ -43,7 +43,7 @@ My full portfolio is live. Click the button to explore my designs and artwork ðŸ
 <br/><br/>
 
 <a href="https://methodical-discipline-352487.framer.app/">
-  <img src="assets/portfolio-button.svg" alt="Visit my portfolio" width="460"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff4ecd,50:7b2ff7,100:ff9a3c&height=90&section=header&text=VISIT%20MY%20PORTFOLIO%20%E2%86%92&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=50" alt="Visit my portfolio" width="460"/>
 </a>
 
 <br/>
